@@ -24,6 +24,8 @@ public class stepDefination {
 	    // Write code here that turns the phrase above into concrete actions
 		System.out.println(arg1);
 		System.out.println(arg2);
+		System.out.println("Nagendra");
+		System.out.println("Nagendra");
 	}
 
 	@Then("^Home page is populated$")
